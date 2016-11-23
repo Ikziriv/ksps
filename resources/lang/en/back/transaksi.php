@@ -1,0 +1,30 @@
+<?php
+
+return [
+	'dashboard' => 'Transaction Menu',
+	'transactions' => 'Transactions',
+	'add' => 'Add a transaction',
+	'all' => 'All',
+	'name' => 'Name',
+	'role' => 'Role',		
+	'seen' => 'Seen',
+	'see' => 'See',
+	'edit' => 'Edit',
+	'destroy' => 'Destroy',
+	'destroy-warning' => 'Really destroy this transaction ?',
+	'fail' => 'Update fail.',
+	'creation' => 'Creation',	
+	'email' => 'Email',
+	'id_ak' => 'ID Aggrements',
+	'id_t' => 'ID Transactions',
+	'nominal' => 'Nominal',
+	'profile' => 'Profile',
+	'transaction-date' => 'Transaction date',
+	'password' => 'Password',
+	'confirm-password' => 'Confirm password',
+	'edition' => 'Edition',
+	'card' => 'Card',
+	'created' => 'Transaction created.',
+	'updated' => 'Transaction updated.',
+	'destroyed' => 'Transaction destroyed.'
+];

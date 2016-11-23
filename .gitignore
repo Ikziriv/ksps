@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+/vendor
+/node_modules
+.env
+=======
 vendor/
 node_modules/
 
@@ -13,3 +18,4 @@ bootstrap/cache/
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+>>>>>>> 0de4e9dbe2a28ffc5ca8b133f55359259bea0c0e

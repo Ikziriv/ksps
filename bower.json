@@ -1,0 +1,43 @@
+{
+  "name": "ksps",
+  "version": "1.0.0",
+  "authors": [
+    "Ikziriv <ivanriski007@gmail.com>"
+  ],
+  "description": "Project BIS CCIT",
+  "main": "js/app.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "app"
+  ],
+  "license": "MIT",
+  "homepage": "www.ksps-akr.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "datatables": "~1.10.9",
+    "ckeditor": "~4.5.4",
+    "bootswatch": "~3.3.5+4",
+    "PACE": "pace#~1.0.2",
+    "bootstrap-datepicker": "~1.4.1",
+    "handlebars": "~4.0.3",
+    "jquery.maskMoney": "~3.0.2",
+    "datatables.net-buttons-bs": "~1.0.3",
+    "datatables-buttons": "~1.0.3",
+    "bootflat": "*"
+  }
+}
